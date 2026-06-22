@@ -7,5 +7,5 @@
 
 -Couldn't figure out what the space character was in ASCII for some time
 
-# Encryption & Decryption Process
+# Conversion Process
 [1-4.pdf](https://github.com/user-attachments/files/29191025/CISC.211.1.pdf)
