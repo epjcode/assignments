@@ -1,5 +1,5 @@
 # Flowchart
-<img width="50%" height="50%" alt="assembly_print_flowchart drawio" src="https://github.com/user-attachments/assets/bdacebe0-138e-47fb-9454-e784e0386161" />
+<img width="40%" height="40%" alt="assembly_print_flowchart" src="https://github.com/user-attachments/assets/4cc0086c-4e06-40d6-ac00-32688b227da9" />
 
 # Challenges
 - Assembly syntax is a lot less intuitive than other programming languages, so I had to reference the lecture notes frequently
