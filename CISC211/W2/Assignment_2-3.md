@@ -1,5 +1,5 @@
 # Flowchart
-<img width="50%" height="50%" alt="variables_constants_flowchart drawio" src="https://github.com/user-attachments/assets/29f617c1-e0a9-47c6-b725-002430076988" />
+<img width="30%" height="30%" alt="variables_constants_flowchart drawio" src="https://github.com/user-attachments/assets/29f617c1-e0a9-47c6-b725-002430076988" />
 
 # Challenges
 - Mixed up .data and .bss; I initially had var1 and var2 in .bss
@@ -8,19 +8,27 @@
 
 # Assembly Code
 ```assembly
-section .data
-	msg db "I came,", 10, "I saw,", 10, "I conquered.", 10
-	msg_len equ $ - msg
 section .text
-	global _start
-_start:
-	mov eax, 4
-	mov ebx, 1
-	mov ecx, msg
-	mov edx, msg_len
-	int 0x80
+        global _start
 
-	mov eax, 1
-	mov ebx, 0
-	int 0x80
+_start:
+        ; use this space for the main body of your program
+        ; ======== write your code below ===========
+	mov eax,[var1]
+	add eax,[var2]
+	mov [result],eax
+
+        ; ======== write your code above ===========
+
+        mov eax,1      ; set eax register to 1 (do not remove this line)
+        int 0x80       ; interrupt 0x80 (do not remove this line)
+
+segment .bss
+        ; use this space for uninitialized variable (result)
+	result resb 1
+segment .data
+        ; use this space for initialized variables (var1 and var2)
+	var1 DD 10
+	var2 DD 15
+
 ```
