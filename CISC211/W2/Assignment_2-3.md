@@ -1,8 +1,11 @@
 # Flowchart
 <img width="50%" height="50%" alt="variables_constants_flowchart drawio" src="https://github.com/user-attachments/assets/29f617c1-e0a9-47c6-b725-002430076988" />
+
 # Challenges
 - Mixed up .data and .bss; I initially had var1 and var2 in .bss
 - Forgot I needed brackets around variable names
+- Still unfamiliar with GDB, I need more practice before I'll be able to use it without a reference
+
 # Assembly Code
 ```assembly
 section .data
