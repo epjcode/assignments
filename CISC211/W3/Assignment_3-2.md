@@ -1,6 +1,9 @@
-# Flowchart
-<img width="50%" height="50%" alt="xor_flowchart drawio" src="https://github.com/user-attachments/assets/b2ad38e8-0d51-45f9-be32-fc1e3da98f7d" />
-<img width="50%" height="50%" alt="test_odd_even_flowchart drawio" src="https://github.com/user-attachments/assets/72a687f5-4662-4701-b528-2ae7696722a2" />
+# Flowchart 1
+<img width="25%" height="25%" alt="xor_flowchart drawio" src="https://github.com/user-attachments/assets/b2ad38e8-0d51-45f9-be32-fc1e3da98f7d" />
+
+# Flowchart 2
+<img width="50%" height="50%" alt="test_odd_even_flowchart drawio (2)" src="https://github.com/user-attachments/assets/1cf935ae-b436-4776-a98e-4db2980e7430" />
+
 
 # Challenges
 - Forgot to set exit syscall after branching to the 'evnn' path
