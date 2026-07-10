@@ -37,7 +37,7 @@ segment .bss
 AL (quotient) | 7; 
 AH (remainder) | 0
 
-# d)
+# d) GDB Verification
 <img width="1621" height="708" alt="image" src="https://github.com/user-attachments/assets/e7fcc016-7685-4143-a9a7-6ab48a024ae1" />
 
 # Problem 2
