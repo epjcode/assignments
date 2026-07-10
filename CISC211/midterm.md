@@ -33,12 +33,15 @@ segment .bss
         result resb 1
 ```
 c)
-Register Name | Value
-AL (quotient)  7
-AH (remainder) 0
+Register Name & Value:
+
+AL (quotient) | 7
+AH (remainder) | 0
 
 d)
 <img width="1621" height="708" alt="image" src="https://github.com/user-attachments/assets/e7fcc016-7685-4143-a9a7-6ab48a024ae1" />
 
 # Problem 2
+<img width="454" height="232" alt="image" src="https://github.com/user-attachments/assets/0d4dd161-87eb-4d88-bcb6-e9a1ad231b1c" />
+
 
