@@ -1,8 +1,8 @@
 # Flowchart 1
-
+<img width="338" height="781" alt="even_sequence drawio (1)" src="https://github.com/user-attachments/assets/afa21a23-ca9a-4c18-9dfa-6d454e0bf4c9" />
 
 # Flowchart 2
-
+<img width="50%" height="50%" alt="find_largest drawio" src="https://github.com/user-attachments/assets/34d479bc-3a4c-4466-a90f-25be8a14ec5b" />
 
 # Challenges
 - I used jg instead of je at first for Task 1, so my list of even integers was generating 22 as well
