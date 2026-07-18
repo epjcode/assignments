@@ -1,9 +1,12 @@
 # Flowchart 1
 
+
 # Flowchart 2
+
 
 # Challenges
 - I used jg instead of je at first for Task 1, so my list of even integers was generating 22 as well
+- I was comparing numbers in the wrong order in regards to the jge command, so code was jumping when it shouldn't have been
 
 # Assembly Code 1
 ```assembly
