@@ -1,8 +1,11 @@
 # Flowchart 1
+<img width="338" height="611" alt="ebx_counter drawio" src="https://github.com/user-attachments/assets/151d9eea-5e3f-47c5-8087-1553ec0782ad" />
 
 # Flowchart 2
+<img width="339" height="982" alt="fibonacci drawio" src="https://github.com/user-attachments/assets/3ea669fd-2729-477e-a757-5820b9900a8f" />
 
 # Flowchart 3
+<img width="50%" height="50%" alt="largestelement drawio" src="https://github.com/user-attachments/assets/d817820f-1b00-46cd-9b03-21b3a3baa3a6" />
 
 # Challenges
 - I kept mixing up the jump instructions, and I struggled to troubleshoot where I was going wrong due to the long time to test per change
